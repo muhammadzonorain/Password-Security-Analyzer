@@ -51,9 +51,6 @@ Password-Security-Analyzer/
 │   └── test_patterns.py
 ├── docs/
 │   └── Project_Report.docx
-├── requirements.txt
-├── LICENSE
-└── .gitignore
 ```
 
 ## How it works (pipeline)
